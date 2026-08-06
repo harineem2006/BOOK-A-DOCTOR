@@ -7,7 +7,7 @@
 ## 🔗 DEMO AND GITHUB REPOSITORY LINKS
 
 > [!IMPORTANT]
-> - ⚡ **Live Render Backend API:** `https://book-a-doctor-backend.onrender.com`
+> - ⚡ **Live Render Backend API:** `https://book-a-doctor-h6gh.onrender.com`
 > - 📦 **GitHub Repository:** `https://github.com/harineem2006/BOOK-A-DOCTOR`
 > - 🔑 **Pre-configured Admin Account:**
 >   - **Account Email:** `admin@gmail.com`
@@ -224,6 +224,6 @@ npm start
 ## 📊 DEMO & EVALUATION LINKS SUMMARY
 
 - **GitHub Repository:** `https://github.com/harineem2006/BOOK-A-DOCTOR`
-- **Live Render Backend API:** `https://book-a-doctor-backend.onrender.com`
+- **Live Render Backend API:** `https://book-a-doctor-h6gh.onrender.com`
 - **Admin Email:** `admin@gmail.com`
 - **Admin Password:** `admin123`
