@@ -7,9 +7,9 @@
 ## 🔗 DEMO AND GITHUB REPOSITORY LINKS
 
 > [!IMPORTANT]
-> - 🌐 **Live Vercel Frontend App:** `https://book-a-doctor-silk.vercel.app/doctors`
-> - ⚡ **Live Render Backend API:** `https://book-a-doctor-h6gh.onrender.com`
-> - 📦 **GitHub Repository:** `https://github.com/harineem2006/BOOK-A-DOCTOR`
+> - 🌐 **Live Vercel Frontend App:** [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app)
+> - ⚡ **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
+> - 📦 **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
 > - 🔑 **Pre-configured Admin Account:**
 >   - **Account Email:** `admin@gmail.com`
 >   - **Password:** `admin123`
@@ -224,8 +224,8 @@ npm start
 
 ## 📊 DEMO & EVALUATION LINKS SUMMARY
 
-- **Live Vercel Frontend App:** `https://book-a-doctor-silk.vercel.app/doctors`
-- **GitHub Repository:** `https://github.com/harineem2006/BOOK-A-DOCTOR`
-- **Live Render Backend API:** `https://book-a-doctor-h6gh.onrender.com`
+- **Live Vercel Frontend App:** [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app)
+- **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
+- **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
 - **Admin Email:** `admin@gmail.com`
 - **Admin Password:** `admin123`
