@@ -11,6 +11,7 @@
 > - 👨‍⚕️ **Browse Doctors:** [https://book-a-doctor-silk.vercel.app/doctors](https://book-a-doctor-silk.vercel.app/doctors)
 > - ⚡ **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
 > - 📦 **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
+> - 📂 **Project Documentation (Google Drive):** [View Full Documentation](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link)
 > - 🔑 **Pre-configured Admin Account:**
 >   - **Account Email:** `admin@gmail.com`
 >   - **Password:** `admin123`
@@ -223,10 +224,27 @@ npm start
 
 ---
 
+## 📂 PROJECT DOCUMENTATION
+
+All project documentation (reports, architecture diagrams, API specs, and database design) is available via the links below:
+
+| Document | Description | Link |
+|---|---|---|
+| 📁 Full Documentation Folder | All project docs on Google Drive | [Open Drive Folder](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
+| 📄 API Documentation | REST API endpoint specifications | `docs/API_Documentation.pdf` |
+| 🗄️ Database Design | MongoDB schema & ER diagrams | `docs/Database_Design.pdf` |
+| 📋 Project Report | Full project report & analysis | `docs/Project_Report.pdf` |
+
+> [!NOTE]
+> The `docs/` directory in this repository contains local copies of the PDF documentation. The Google Drive folder may contain additional or updated resources.
+
+---
+
 ## 📊 DEMO & EVALUATION LINKS SUMMARY
 
 - **Live Vercel Frontend App:** [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app)
 - **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
 - **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
+- **Project Documentation (Google Drive):** [https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link)
 - **Admin Email:** `admin@gmail.com`
 - **Admin Password:** `admin123`
