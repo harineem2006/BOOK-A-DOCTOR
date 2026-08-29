@@ -17,9 +17,9 @@
 
 ### 🔗 Quick Links
 
-| 🌐 Live App | ⚡ Backend API | 📦 GitHub |
-|:-----------:|:--------------:|:---------:|
-| [Frontend (Vercel)](https://book-a-doctor-silk.vercel.app) | [Backend (Render)](https://book-a-doctor-h6gh.onrender.com) | [Repository](https://github.com/harineem2006/BOOK-A-DOCTOR) |
+| 🌐 Live App | ⚡ Backend API | 📦 GitHub | 📂 Documentation |
+|:-----------:|:--------------:|:---------:|:----------------:|
+| [Frontend (Vercel)](https://book-a-doctor-silk.vercel.app) | [Backend (Render)](https://book-a-doctor-h6gh.onrender.com) | [Repository](https://github.com/harineem2006/BOOK-A-DOCTOR) | [Google Drive Docs](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 
 > [!IMPORTANT]
 > **🔑 Pre-configured Admin Account for Demo:**
@@ -345,7 +345,7 @@ cd client && npm start
 | `GET` | `/admin/users` | ✅ Admin | Get all users |
 
 > [!NOTE]
-> Full API documentation with request/response schemas is available in [`docs/API_Documentation.pdf`](./docs/API_Documentation.pdf).
+> Full API documentation with request/response schemas is available in [`docs/API_Documentation.pdf`](./docs/API_Documentation.pdf) and on the [Google Drive Documentation Folder](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link).
 
 ---
 
@@ -381,10 +381,14 @@ All project documentation is available via the links below:
 
 | Document | Description | Link |
 |----------|-------------|------|
+| 📁 **Full Documentation Folder** | All project docs on Google Drive | [Open Drive Folder](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 | 📄 **API Documentation** | REST API endpoint specs with examples | [`docs/API_Documentation.pdf`](./docs/API_Documentation.pdf) |
 | 🗄️ **Database Design** | MongoDB schema & ER diagrams | [`docs/Database_Design.pdf`](./docs/Database_Design.pdf) |
 | 📋 **Project Report** | Full project report & technical analysis | [`docs/Project_Report.pdf`](./docs/Project_Report.pdf) |
 | 🧪 **Postman Collection** | API test collection for all endpoints | [`postman/`](./postman/) |
+
+> [!NOTE]
+> The `docs/` directory in this repository contains local copies of the PDF documentation. The Google Drive folder may contain additional or updated resources.
 
 ---
 
@@ -457,6 +461,7 @@ All project documentation is available via the links below:
 | 🔍 **Browse Doctors** | [book-a-doctor-silk.vercel.app/doctors](https://book-a-doctor-silk.vercel.app/doctors) |
 | ⚡ **Backend API** | [book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com) |
 | 📦 **GitHub Repo** | [github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR) |
+| 📂 **Project Docs** | [Google Drive Documentation](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 
 ---
 
@@ -473,6 +478,7 @@ Made with ❤️ using the **MERN Stack**
 > - 👨‍⚕️ **Browse Doctors:** [https://book-a-doctor-silk.vercel.app/doctors](https://book-a-doctor-silk.vercel.app/doctors)
 > - ⚡ **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
 > - 📦 **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
+> - 📂 **Project Documentation (Google Drive):** [View Full Documentation](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link)
 > - 🔑 **Pre-configured Admin Account:**
 >   - **Account Email:** `admin@gmail.com`
 >   - **Password:** `admin123`
@@ -691,9 +697,13 @@ All project documentation (reports, architecture diagrams, API specs, and databa
 
 | Document | Description | Link |
 |---|---|---|
+| 📁 Full Documentation Folder | All project docs on Google Drive | [Open Drive Folder](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 | 📄 API Documentation | REST API endpoint specifications | `docs/API_Documentation.pdf` |
 | 🗄️ Database Design | MongoDB schema & ER diagrams | `docs/Database_Design.pdf` |
 | 📋 Project Report | Full project report & analysis | `docs/Project_Report.pdf` |
+
+> [!NOTE]
+> The `docs/` directory in this repository contains local copies of the PDF documentation. The Google Drive folder may contain additional or updated resources.
 
 ---
 
@@ -702,5 +712,6 @@ All project documentation (reports, architecture diagrams, API specs, and databa
 - **Live Vercel Frontend App:** [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app)
 - **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
 - **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
+- **Project Documentation (Google Drive):** [https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link)
 - **Admin Email:** `admin@gmail.com`
 - **Admin Password:** `admin123`
