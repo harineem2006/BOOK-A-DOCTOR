@@ -473,15 +473,15 @@ Made with ❤️ using the **MERN Stack**
 
 ## 🔗 DEMO AND GITHUB REPOSITORY LINKS
 
-> [!IMPORTANT]
-> - 🌐 **Live Vercel Frontend App:** [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app)
-> - 👨‍⚕️ **Browse Doctors:** [https://book-a-doctor-silk.vercel.app/doctors](https://book-a-doctor-silk.vercel.app/doctors)
-> - ⚡ **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
-> - 📦 **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
-> - 📂 **Project Documentation (Google Drive):** [View Full Documentation](https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W)
-> - 🔑 **Pre-configured Admin Account:**
->   - **Account Email:** `admin@gmail.com`
->   - **Password:** `admin123`
+| Resource | Link |
+|----------|------|
+| 🌐 **Live Vercel Frontend App** | [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app) |
+| 👨‍⚕️ **Browse Doctors** | [https://book-a-doctor-silk.vercel.app/doctors](https://book-a-doctor-silk.vercel.app/doctors) |
+| ⚡ **Live Render Backend API** | [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com) |
+| 📦 **GitHub Repository** | [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR) |
+| 📂 **Project Documentation (Google Drive)** | [https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W](https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W) |
+| 🔑 **Admin Email** | `admin@gmail.com` |
+| 🔑 **Admin Password** | `admin123` |
 
 ---
 
@@ -709,9 +709,11 @@ All project documentation (reports, architecture diagrams, API specs, and databa
 
 ## 📊 DEMO & EVALUATION LINKS SUMMARY
 
-- **Live Vercel Frontend App:** [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app)
-- **GitHub Repository:** [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR)
-- **Live Render Backend API:** [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com)
-- **Project Documentation (Google Drive):** [https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W](https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W)
-- **Admin Email:** `admin@gmail.com`
-- **Admin Password:** `admin123`
+| Resource | Link |
+|----------|------|
+| 🌐 **Live Vercel Frontend App** | [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app) |
+| 📦 **GitHub Repository** | [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR) |
+| ⚡ **Live Render Backend API** | [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com) |
+| 📂 **Project Documentation (Google Drive)** | [https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W](https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W) |
+| 🔑 **Admin Email** | `admin@gmail.com` |
+| 🔑 **Admin Password** | `admin123` |
