@@ -9,6 +9,7 @@
 > [!IMPORTANT]
 > - ⚡ **Live Render Backend API:** `https://book-a-doctor-h6gh.onrender.com`
 > - 📦 **GitHub Repository:** `https://github.com/harineem2006/BOOK-A-DOCTOR`
+> - 📁 **Project Documentation (Google Drive):** `https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link`
 > - 🔑 **Pre-configured Admin Account:**
 >   - **Account Email:** `admin@gmail.com`
 >   - **Password:** `admin123`
@@ -221,9 +222,17 @@ npm start
 
 ---
 
+## 7. PROJECT DOCUMENTATION
+
+- 📁 **Google Drive Documentation:** [Project Documentation Drive Folder](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) (`https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link`)
+- 📄 **Architecture & Design Documents:** Located in the [`docs/`](./docs) folder (`API_Documentation.pdf`, `Database_Design.pdf`, `Project_Report.pdf`).
+
+---
+
 ## 📊 DEMO & EVALUATION LINKS SUMMARY
 
 - **GitHub Repository:** `https://github.com/harineem2006/BOOK-A-DOCTOR`
 - **Live Render Backend API:** `https://book-a-doctor-h6gh.onrender.com`
+- **Project Documentation (Google Drive):** `https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link`
 - **Admin Email:** `admin@gmail.com`
 - **Admin Password:** `admin123`
