@@ -461,7 +461,7 @@ All project documentation is available via the links below:
 | 🔍 **Browse Doctors** | [book-a-doctor-silk.vercel.app/doctors](https://book-a-doctor-silk.vercel.app/doctors) |
 | ⚡ **Backend API** | [book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com) |
 | 📦 **GitHub Repo** | [github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR) |
-| 📂 **Project Docs** | [Google Drive Documentation](https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W) |
+| 📂 **Project Docs** | [Google Drive Documentation](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 
 ---
 
@@ -479,7 +479,7 @@ Made with ❤️ using the **MERN Stack**
 | 👨‍⚕️ **Browse Doctors** | [https://book-a-doctor-silk.vercel.app/doctors](https://book-a-doctor-silk.vercel.app/doctors) |
 | ⚡ **Live Render Backend API** | [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com) |
 | 📦 **GitHub Repository** | [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR) |
-| 📂 ** | [https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W](** | https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link |
+| 📂 **Project Documentation (Google Drive)** | [https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 | 🔑 **Admin Email** | `admin@gmail.com` |
 | 🔑 **Admin Password** | `admin123` |
 
@@ -697,7 +697,7 @@ All project documentation (reports, architecture diagrams, API specs, and databa
 
 | Document | Description | Link |
 |---|---|---|
-| 📁 Full Documentation Folder | All project docs on Google Drive | [Open Drive Folder](https://drive.google.com/drive/folders/1vI4_cXEUxPjJg2MeDWBstX5lplPcvW7W) |
+| 📁 Full Documentation Folder | All project docs on Google Drive | [Open Drive Folder](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 | 📄 API Documentation | REST API endpoint specifications | `docs/API_Documentation.pdf` |
 | 🗄️ Database Design | MongoDB schema & ER diagrams | `docs/Database_Design.pdf` |
 | 📋 Project Report | Full project report & analysis | `docs/Project_Report.pdf` |
@@ -714,6 +714,6 @@ All project documentation (reports, architecture diagrams, API specs, and databa
 | 🌐 **Live Vercel Frontend App** | [https://book-a-doctor-silk.vercel.app](https://book-a-doctor-silk.vercel.app) |
 | 📦 **GitHub Repository** | [https://github.com/harineem2006/BOOK-A-DOCTOR](https://github.com/harineem2006/BOOK-A-DOCTOR) |
 | ⚡ **Live Render Backend API** | [https://book-a-doctor-h6gh.onrender.com](https://book-a-doctor-h6gh.onrender.com) |
-| 📂 ** | [https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link](** | [https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
+| 📂 **Project Documentation (Google Drive)** | [https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link](https://drive.google.com/drive/folders/10zuagMJ3mQrElmOohHb3uvtuQw3Dedtt?usp=drive_link) |
 | 🔑 **Admin Email** | `admin@gmail.com` |
 | 🔑 **Admin Password** | `admin123` |
